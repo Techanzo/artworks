@@ -2,9 +2,9 @@
 
 This project is created for the demonstration purpose to show strength and ability of team Techanzo. This project displays vintage art gallery in interactive and elegant way.
 
-All the code is available [here](____________________).
+All the code is available [here](https://github.com/Techanzo/artworks).
 
-Live project is available to test [here](____________________).
+Live project is available to test [here](https://tiny-heliotrope-3ce7f1.netlify.app).
 
 ## Technologies used
 
