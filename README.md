@@ -145,11 +145,11 @@ Even when having vast experience in developing world class products, we faced tw
 
 I would like to thank all the contributors of this project who worked day and night to finish this project on a weekend.
 
-    - Team leaders
-        - Vishal S.
-        - Mayur Z.
-    - Developers
-        - Prince H.
-        - Aman Y.
-    - Designer
-        - Pritam B.
+- Team leaders
+  - Vishal S.
+  - Mayur Z.
+- Developers
+  - Prince H.
+  - Aman Y.
+- Designer
+  - Pritam B.
